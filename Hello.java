@@ -1,5 +1,8 @@
 class Hello{
 	public static void main(String args[]){
-		System.out.println("Ð¡·½ is studying java!");
+		double num1 = 2.7;
+		double num2 = 8.1 / 3;
+		System.out.println(num1);
+		System.out.println(num2);
 	}
 }
